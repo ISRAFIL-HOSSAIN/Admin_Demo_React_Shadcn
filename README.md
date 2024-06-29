@@ -1,8 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Admin Dashboard with React Js + Vite + ShadCN
 
-Currently, two official plugins are available:
+A brief description of what this project does 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Screenshots
+
+![App Screenshot](https://github.com/ISRAFIL-HOSSAIN/AllProjectShowcase/blob/main/Dashboard_Shadcn.png?raw=true)
+
+
+![App Screenshot](https://github.com/ISRAFIL-HOSSAIN/AllProjectShowcase/blob/main/shadcn_Admin.png?raw=true)
+## Demo Dashbaord
+
+https://admin-demo-shadcn.vercel.app/
+
+
+## Tech Stack
+
+**Client:** React, Vite , TailwindCSS , ShadCN , Tanstack Table , Radix Ui. 
+
+**Server:** Vercel
+
+
+## Installation
+
+Install this Admin Dashboard 
+
+```bash
+  npm install my-project
+  cd my-project 
+```
+
+## Run The Project 
+
+```bash 
+    npm run dev 
+```
+    
+## Authors
+
+- [@Israfil Hossain](https://www.github.com/israfil-hossain)
+
